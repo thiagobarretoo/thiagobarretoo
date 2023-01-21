@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 💫 About Me:
+# 💫 Sobre min:
 Olá eu me chamo Thiago!<br>sou apaixonado pelo potencial transformador da tecnologia na vida das pessoas e esse foi o principal fator motivador pra mim.<br>desenvolvedor Full Stack em formação pela Cubos academy e graduando em analise e desenvolvimento de sistema .
 
 
